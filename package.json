@@ -12,9 +12,17 @@
     "npm"
   ],
   "bin": {
-    "random-msg": "./bin/global.js"
+    "random-msg": "bin/global.js"
   },
   "preferGlobal": true,
   "author": "MIT",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soydavidarteaga/random-msg.git"
+  },
+  "bugs": {
+    "url": "https://github.com/soydavidarteaga/random-msg/issues"
+  },
+  "homepage": "https://github.com/soydavidarteaga/random-msg#readme"
 }
